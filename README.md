@@ -1,1 +1,1 @@
-# Day-1-200-of-DSA
+# 200 days of Data Structure and Algoritm.
