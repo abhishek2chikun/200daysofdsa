@@ -1,2 +1,3 @@
-# 200 days of Data Structure and Algoritm.
-Here I upload my daily practise code . 
+# 200 days of Code(In Python).
+Here I upload my daily practise of code of Python Programming language 
+
