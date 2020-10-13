@@ -20,7 +20,7 @@ class Priority_Queue:
         curr=0
         leftchild=2*curr+1
         rightchild=2*curr+2
-        while leftchild<self.length-1:
+        while leftchild<=self.length-1:
             swapidx=curr
             if self.pq[leftchild].priority < self.pq[swapidx].priority:
                 swapidx=leftchild
